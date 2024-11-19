@@ -1,2 +1,2 @@
 # Coca-cola
- Site de criado por mim da Coca-Cola
+ Site criado por mim da Coca-Cola
